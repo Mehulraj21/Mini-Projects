@@ -5,11 +5,6 @@
 ## About
 Real-Time Face Detection is a simple Python application that performs real-time face detection using OpenCV's Haar Cascade Classifier. The application captures video from the webcam and detects faces in the video stream. It draws rectangles around the detected faces in real-time.
 
-## Guided Path
-
-Check out our guided path on Real-Time Face Detection for more information on the development process and our thoughts on building the application:
-
-* [Real-Time Face Detection Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577061/offering/8920010).
 
 ## Requirements
 
