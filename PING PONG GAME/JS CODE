@@ -1,0 +1,12 @@
+# Selecting the Canvas
+let can = document.getElementById("table");
+let draw_ = canvas.getContext('2d');
+
+# Drawing Shapes
+draw_.fillStyle = color; // Rectangle
+draw_.fillRect(x, y, w, h);
+draw_.fillStyle = color;
+draw_.beginPath();
+draw_.arc(x,y,r,0,Math.PI*2,false); // 0-start angle & false- clockwise direction
+draw_.closePath();
+draw_ .fill();
